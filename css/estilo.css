@@ -135,15 +135,10 @@ footer{
 }
 #redes{
 	display: flex;
-	padding: 10px;
+	margin: 8px;
 }
-#redes div{
-	width: 100px;
-	height: 100px;
-}
-#redes div img{
-	width: 25%;
-	margin: auto;	
+#redes img{
+	margin: 10px;
 }
 .mapa{
 	display: flex;
