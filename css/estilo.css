@@ -175,5 +175,6 @@ footer{
 	#header1 img{width: 100px; height: 100px;}
 	#header1 h1{font-size: 55px;}
 	#header1 h2{font-size: 20px;}
+		nav ul li a{ font-size: 16px }
 }
 
